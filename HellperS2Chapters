@@ -1,0 +1,17 @@
+{
+  "title": "Hellper Season 2",
+  "description": "When the leader of a biker gang dies and finds himself with a ticket to Hell, he sets out on a quest to change his fate. He needs to collect 100 black bracelets of other condemned souls to qualify for reincarnation.",
+  "artist": "Sakk",
+  "author": "Sakk",
+  "cover": "https://lh3.googleusercontent.com/6HnrkKzM4iluy3gCGxeRURcxhTqAI2qBM53CDJsQt3ZkUmxERZMvetOgSQ2w9sU4UGyhQz1K7CiVQ0VlYdos_Nlb6le4pUf-ow=s0-e365-rj-l80-e365",
+  "chapters": {
+    "1": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/zadPy3D/"
+      },
+      "last_updated": "1635362022"
+    }
+  }
+}
