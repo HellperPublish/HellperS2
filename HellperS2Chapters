@@ -6,10 +6,10 @@
   "cover": "https://lh3.googleusercontent.com/6HnrkKzM4iluy3gCGxeRURcxhTqAI2qBM53CDJsQt3ZkUmxERZMvetOgSQ2w9sU4UGyhQz1K7CiVQ0VlYdos_Nlb6le4pUf-ow=s0-e365-rj-l80-e365",
   "chapters": {
     "1": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+      "title": "Chapter 1",
+      "volume": "Volume 1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/zadPy3D/"
+        "H2P Team": "/proxy/api/imgur/chapter/rSpw7O1/"
       },
       "last_updated": "1635362022"
     }
