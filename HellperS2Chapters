@@ -12,6 +12,14 @@
         "H2P Team": "/proxy/api/imgur/chapter/19lO1Ud/"
       },
       "last_updated": "1635362022"
-    }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "Volume 1",
+      "groups": {
+        "H2P Team": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1635362022"
+    },
   }
 }
