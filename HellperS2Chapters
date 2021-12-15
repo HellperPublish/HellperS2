@@ -52,6 +52,14 @@
         "KillberoScans": "/proxy/api/imgur/chapter/zVImtRC/"
       },
       "last_updated": "1638971637"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "Volume 1",
+      "groups": {
+        "KillberoScans": "/proxy/api/imgur/chapter/MwUZSkg/"
+      },
+      "last_updated": "1639587790"
     }
   }
 }
