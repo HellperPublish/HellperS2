@@ -444,22 +444,6 @@
         "KillberoScans": "/proxy/api/imgur/chapter/tJ2zsFi"
       },
       "last_updated": "1685715344"
-    },
-    "56": {
-      "title": "Chapter 56",
-      "volume": "Volume 1",
-      "groups": {
-        "KillberoScans": "/proxy/api/imgur/chapter/gV8iPk7"
-      },
-      "last_updated": "1686906293"
-    },
-    "56.1": {
-      "title": "Chapter 56.1",
-      "volume": "Volume 1",
-      "groups": {
-        "KillberoScans": "/proxy/api/imgur/chapter/gV8iPk7"
-      },
-      "last_updated": "1686906293"
     }
   }
 }
