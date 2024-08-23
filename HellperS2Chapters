@@ -788,6 +788,14 @@
         "KillberoScans": "/proxy/api/imgur/chapter/dJAaYhT"
       },
       "last_updated": "1724254425"
+    },
+    "99": {
+      "title": "Chapter 99",
+      "volume": "Volume 1",
+      "groups": {
+        "KillberoScans": "/proxy/api/imgur/chapter/9XW6Byf"
+      },
+      "last_updated": "1724454682"
     }
   }
 }
