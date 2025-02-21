@@ -980,6 +980,14 @@
         "KillberoScans": "/proxy/api/imgchest/chapter/vj4j9vmb9y8"
       },
       "last_updated": "1739566218"
+    },
+    "123": {
+      "title": "Chapter 123",
+      "volume": "Volume 1",
+      "groups": {
+        "KillberoScans": "/proxy/api/imgchest/chapter/6eyrv9w9k4p"
+      },
+      "last_updated": "1740167283"
     }
   }
 }
